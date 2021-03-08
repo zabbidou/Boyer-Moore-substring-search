@@ -3,10 +3,6 @@ Homework for Formal Languages and Automata subject. We had to implement the Boye
 
 # Romanian readme
 
-% **Tema 1 LFA**
-% Gherman Maria Irina | 334CB
----
-
 ## Introducere
 Pentru tema aceasta am încercat să folosesc cât de mult pot calitățile 
 limbajului Python. Mi-am definit multe funcții, fiecare cu rolul ei, iar 
